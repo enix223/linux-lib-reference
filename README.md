@@ -1,4 +1,4 @@
-# linux-lib-reference
+# No such file or directory
 
 A quick reference to checkout what lib/pkg is missing when you failed to compile your c programs
 
