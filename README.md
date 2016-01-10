@@ -1,5 +1,6 @@
-# ubuntu-apt-lib-reference
-A reference to checkout what lib/pkg is missing when you failed to compile your c programs
+# linux-lib-reference
+
+A quick reference to checkout what lib/pkg is missing when you failed to compile your c programs
 
 ## Problem & Target
 
